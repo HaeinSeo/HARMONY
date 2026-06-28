@@ -31,18 +31,6 @@ Unlike conventional single-modal systems, HARMONY integrates **vision**, **audio
 
 ---
 
-# 🛠️ Tech Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Programming** | Python 3.11 |
-| **Deep Learning** | PyTorch, TorchVision, TorchAudio |
-| **Computer Vision** | OpenCV, YOLO |
-| **Audio Processing** | Librosa, Torchaudio |
-| **Data Processing** | NumPy, Pandas, Scikit-learn |
-| **Visualization** | Matplotlib, Plotly |
-| **Deployment** | Docker, Ubuntu Linux |
-| **Version Control** | Git, GitHub |
 
 ---
 
